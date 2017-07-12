@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
                                 R.drawable.slide03, R.drawable.slide04, R.drawable.slide05,
                                 R.drawable.slide06, R.drawable.slide07, R.drawable.slide08,
                                 R.drawable.slide09};
-
     int mPosition = 0;
 
     boolean mIsSlideshow = false;
